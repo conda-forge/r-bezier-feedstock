@@ -1,11 +1,11 @@
-About r-bezier
-==============
+About r-bezier-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bezier-feedstock/blob/main/LICENSE.txt)
 
 Home: https://cran.r-project.org/package=bezier
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bezier-feedstock/blob/main/LICENSE.txt)
 
 Summary: The bezier package is a toolkit for working with Bezier curves and splines. The package provides functions for point generation, arc length estimation, degree elevation and curve fitting.
 
